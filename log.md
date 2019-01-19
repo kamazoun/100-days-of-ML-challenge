@@ -28,13 +28,13 @@ Link to work: https://github.com/kamazoun/100-days-of-ML-challenge/blob/master/i
 
 
 Day 2: January 19, 2019
-Today's Progress: 
+Today's Progress: Today, I started learning tensorflow, and got stuck at a certain point. Something's not right. I need to fix something.
 
-Next step: 
+Next step: Fixing that thing 
 
-Thoughts: 
+Thoughts: Well, as I am already in the challenge I'll just keep going. Tomorrow, see ya
 
-Link to work: https://github.com/kamazoun/100-days-of-ML-challenge/blob/master/tensorflow_programming_concepts.ipynb
+Link to work: https://github.com/kamazoun/100-days-of-ML-challenge/blob/master/tensorflow_programming_concepts.ipynb  https://github.com/kamazoun/100-days-of-ML-challenge/blob/master/creating_and_manipulating_tensors.ipynb
 
 
 
