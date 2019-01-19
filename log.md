@@ -35,3 +35,27 @@ Next step:
 Thoughts: 
 
 Link to work: 
+
+
+
+
+Day 3: January 20, 2019
+Today's Progress: 
+
+Next step: 
+
+Thoughts: 
+
+Link to work: 
+
+
+
+
+Day 99: April 27, 2019
+Today's Progress: 
+
+Final step: 
+
+Thoughts: 
+
+Link to work: 
