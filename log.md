@@ -34,7 +34,7 @@ Next step:
 
 Thoughts: 
 
-Link to work: 
+Link to work: https://github.com/kamazoun/100-days-of-ML-challenge/blob/master/tensorflow_programming_concepts.ipynb
 
 
 
