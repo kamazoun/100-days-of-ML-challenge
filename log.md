@@ -40,13 +40,13 @@ Link to work: https://github.com/kamazoun/100-days-of-ML-challenge/blob/master/t
 
 
 Day 3: January 20, 2019
-Today's Progress: 
+Today's Progress: Today, during the hour allocated to ML, I browsed some resources.
 
-Next step: 
+Next step: Assign more time per day to learn more about Python and TensorFlow libraries and API that will be used during the study
 
-Thoughts: 
+Thoughts: RAS
 
-Link to work: 
+Link to work: RAS 
 
 
 
