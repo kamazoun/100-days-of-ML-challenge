@@ -68,7 +68,7 @@ Next step: Progress on scikit-learn!!!
 
 Thoughts: Everything will be alright, just go, just keep going.
 
-Link to work: 
+Link to work: https://github.com/kamazoun/100-days-of-ML-challenge/blob/master/Recognizing_hand_written_digits.ipynb
 
 
 
