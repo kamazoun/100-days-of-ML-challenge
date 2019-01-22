@@ -50,6 +50,39 @@ Link to work: RAS
 
 
 
+Day 4: January 21, 2019
+Today's Progress: Today I did nearly nothing
+
+Next step: Unknow
+
+Thoughts: Tomorrow I will review the bases
+
+Link to work: 
+
+
+
+Day 5: January 22, 2019
+Today's Progress: Ok, today I read a lot of literature. It brought me to scikit-learn. Have started it, will contitnue.
+
+Next step: Progress on scikit-learn!!!
+
+Thoughts: Everything will be alright, just go, just keep going.
+
+Link to work: 
+
+
+
+Day : , 2019
+Today's Progress:
+
+Next step: 
+
+Thoughts: 
+
+Link to work: 
+
+
+
 
 Day 99: April 27, 2019
 Today's Progress: 
