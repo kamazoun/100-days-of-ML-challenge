@@ -73,21 +73,21 @@ Link to work: https://github.com/kamazoun/100-days-of-ML-challenge/blob/master/R
 
 
 Day 6: January 23, 2019
-Today's Progress:
+Today's Progress: I brownsed some content to give a better direction to my studies of ML. Particularly, got some books from the lib for Tensorflow from the basics of Pyhton. Useful for me I think, as I need to focus on the Python "essentials" for ML.
 
-Next step: 
+Next step: Tomorrwow start with the books, advanced in Python before tackling Scikit-learn and Tensorflow at once
 
-Thoughts: 
+Thoughts: Good
 
 Link to work: 
 
 
 Day 7: January 24, 2019
-Today's Progress:
+Today's Progress: I start reading my book, learn general knownledge about Predictive Analysis and did some Pyhton
 
-Next step: 
+Next step: Continue with these books, quicker
 
-Thoughts: 
+Thoughts: Still good. Hbd bro
 
 Link to work: 
 
