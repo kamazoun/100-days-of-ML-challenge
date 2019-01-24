@@ -72,7 +72,7 @@ Link to work: https://github.com/kamazoun/100-days-of-ML-challenge/blob/master/R
 
 
 
-Day : , 2019
+Day 6: January 23, 2019
 Today's Progress:
 
 Next step: 
@@ -82,6 +82,14 @@ Thoughts:
 Link to work: 
 
 
+Day 7: January 24, 2019
+Today's Progress:
+
+Next step: 
+
+Thoughts: 
+
+Link to work: 
 
 
 Day 99: April 27, 2019
