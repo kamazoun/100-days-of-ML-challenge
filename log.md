@@ -92,6 +92,18 @@ Thoughts: Still good. Hbd bro
 Link to work: 
 
 
+January 25, 2019
+Davy Bd. Day off.
+
+Day 9: January 26, 2019
+Today's Progress: After a day off to chill, I came back into the mathematical background needed to understand the principles of PA. More to do about PCA and SVD.
+
+Next step: EigenVs, PCA, SVD
+
+Thoughts: NA
+
+Link to work: NA 
+
 Day 99: April 27, 2019
 Today's Progress: 
 
