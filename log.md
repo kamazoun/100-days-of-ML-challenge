@@ -104,6 +104,16 @@ Thoughts: NA
 
 Link to work: NA 
 
+
+Day 10: January 27, 2019
+Today's Progress: Continued reading
+
+Next step: scikit learn
+
+Thoughts: NA
+
+Link to work: NA 
+
 Day 99: April 27, 2019
 Today's Progress: 
 
